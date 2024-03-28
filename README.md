@@ -65,7 +65,6 @@ Submit 버튼은 사각영역을 기준으로 새롭게 텍스트를 인식하�
 <img width="1764" alt="스크린샷 2024-03-29 오전 12 14 53" src="https://github.com/SpearHyeok/PdfTranslator/assets/149657377/894403c5-e357-4493-be5e-008e594cd518">
 <img width="1764" alt="스크린샷 2024-03-29 오전 12 15 18" src="https://github.com/SpearHyeok/PdfTranslator/assets/149657377/63fd5998-8340-4b23-8587-0e1da4ade584">
 <img width="1764" alt="스크린샷 2024-03-29 오전 12 15 22" src="https://github.com/SpearHyeok/PdfTranslator/assets/149657377/1803c9e3-b520-4ae4-b680-788afb20906f">
-<img width="1764" alt="스크린샷 2024-03-29 오전 12 16 13" src="https://github.com/SpearHyeok/PdfTranslator/assets/149657377/f566adca-3ab4-4d77-8301-1be97ad9182c">
 <img width="1764" alt="스크린샷 2024-03-29 오전 12 16 53" src="https://github.com/SpearHyeok/PdfTranslator/assets/149657377/3c5ee407-6239-46e3-9546-5fb8c5f67302">
 <img width="1764" alt="스크린샷 2024-03-29 오전 12 16 59" src="https://github.com/SpearHyeok/PdfTranslator/assets/149657377/3e581c7c-6fca-412f-8f07-2d4a40b5b275">
 
